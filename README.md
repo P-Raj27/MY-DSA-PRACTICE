@@ -14,7 +14,8 @@ PRACTICE FROM THESE
 3. [equilibrium point](https://www.google.com/url?q=https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1/?category%5B%5D%3DArrays%26category%5B%5D%3DArrays%26problemStatus%3Dunsolved%26difficulty%5B%5D%3D0%26difficulty%5B%5D%3D1%26page%3D1%26query%3Dcategory%5B%5DArraysproblemStatusunsolveddifficulty%5B%5D0difficulty%5B%5D1page1category%5B%5DArrays&sa=D&source=editors&ust=1629561711154000&usg=AOvVaw0yaN92cBqv1euzsXpUyiG3)
 4. [three way partioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&difficulty[]=0&difficulty[]=1&page=1&query=category[]ArraysproblemStatusunsolveddifficulty[]0difficulty[]1page1category[]Arrays)
 # NEW TRACK
-#Arrays 
+
+ARRAY \
 1.[segregrating 0s 1s 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)\
 2.[minimum distance 2 number](https://practice.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1)\
 3.[maximum of subarray of size K](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)\
