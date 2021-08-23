@@ -23,4 +23,10 @@ ARRAY \
 5.[index of extra element](https://practice.geeksforgeeks.org/problems/index-of-an-extra-element/1/?category[]=Arrays&category[]=Arrays&problemType=functional&difficulty[]=0&page=1&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1category[]Arrays)\
 6.[rotate array by n](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?category[]=Arrays&category[]=Arrays&problemType=functional&difficulty[]=0&page=1&query=category[]ArraysproblemTypefunctionaldifficulty[]0page1category[]Arrays)\
 7.[top k frequent element](https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1/?category[]=Arrays&category[]=Arrays&problemType=functional&difficulty[]=0&page=2&query=category[]ArraysproblemTypefunctionaldifficulty[]0page2category[]Arrays)\
+8.[majority element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?category[]=Arrays&category[]=Arrays&problemType=functional&difficulty[]=0&page=2&query=category[]ArraysproblemTypefunctionaldifficulty[]0page2category[]Arrays)\
+9.[kth smallest number](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)\
+10.[largest subarray with zero sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/?category[]=Arrays&category[]=Arrays&problemType=functional&difficulty[]=0&page=2&query=category[]ArraysproblemTypefunctionaldifficulty[]0page2category[]Arrays)\
+11.[max subarray with zero sum](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1/?category[]=Arrays&category[]=Arrays&problemType=functional&difficulty[]=0&page=2&query=category[]ArraysproblemTypefunctionaldifficulty[]0page2category[]Arrays)\
+12.[minimze heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)\
+
 
