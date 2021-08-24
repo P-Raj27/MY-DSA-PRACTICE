@@ -1,4 +1,4 @@
-# ULTIMATE SOLTION OF THIS PROBLEM IS AN ALGORITHM CALLED " JUGGLING ALGORITHM"
+# ONE OF THE SOLUTION OF THIS PROBLEM IS AN ALGORITHM CALLED " JUGGLING ALGORITHM" O(N) Time and O(1) space
 # IT WILL BE UPDATED SOON
 
 
@@ -65,7 +65,11 @@ class Solution:
       A.extend(tmp)
       print(A)
       
-      
+ li=[1,2,3,4,5]
+ li[2:]+li[:2]
+output = [3, 4, 5, 1, 2]
+ li[-2:]+li[:-2]
+output = [4, 5, 1, 2, 3]
       
 ######################### SOLUTION  4 ###########################
       
@@ -84,5 +88,20 @@ for i in range(len(tmp)):
     dq.append(tmp[i])
 
 print(list(dq))
+
+####################### ANOTHER SOLUTION USING DEQUE #############################
+
+
+
+from collections import deque
+>>> d=deque([1,2,3,4,5])
+>>> d
+deque([1, 2, 3, 4, 5])
+>>> d.rotate(2)
+>>> d
+deque([4, 5, 1, 2, 3])
+>>> d.rotate(-2)
+>>> d
+deque([1, 2, 3, 4, 5])
 
 
