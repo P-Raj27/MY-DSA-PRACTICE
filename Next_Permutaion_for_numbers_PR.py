@@ -9,7 +9,7 @@ while(i<len(array)):
         suffix_index=i
     i=i+1
 if(suffix_index==None):
-    return False
+    print sorted(array)
 print(suffix_index,array[suffix_index])
 j=suffix_index
 to_be_swapped=j
